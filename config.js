@@ -6,7 +6,7 @@ module.exports = {
     author : 'PrinceBot',
     website : 'http://www.arduino.cc',
     email : 'print081@gmail.com',
-    git : 'https://github.com/PrinceBot-Ratthanin/Nano-Robot/',    
+    git : 'https://github.com/PrinceBot-Ratthanin/turtle328/',    
     image : '/static/display.png',
     version : '1.0.0',
 };
