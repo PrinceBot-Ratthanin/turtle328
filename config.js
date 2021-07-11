@@ -8,5 +8,5 @@ module.exports = {
     email : 'print081@gmail.com',
     git : 'https://github.com/PrinceBot-Ratthanin/turtle328/',    
     image : '/static/display.png',
-    version : '1.0.0',
+    version : '1.0.1',
 };
